@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jarin K</h1>
 <h3 align="center">Aspiring Cybersecurity Engineer</h3>
 
-- 🌱 I’m  **Aspiring Cybersecurity Professional**
+- 🌱 I’m  **Aspiring Cyber Security Professional**
 
 - 📫 How to reach me **jarinmenon100@gmail.com**
 
